@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ishwarchandratiwari/testingpackage-simple-demo-random-number-generator"
+    "url": "https://github.com/ishwarchandratiwari/simple-demo-random-number-generator.git"
   },
   "author": "Ishwar Chandra Tiwari <ishwardeveloper@gmail.com>",
   "license": "MIT"
