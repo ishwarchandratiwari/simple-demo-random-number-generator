@@ -24,7 +24,10 @@ npm i simple-demo-random-number-generator
 
 ## Test
 https://github.com/ishwarchandratiwari/testingpackage-simple-demo-random-number-generator
+
+```
 npm install
 node test.js
+```
 
 
