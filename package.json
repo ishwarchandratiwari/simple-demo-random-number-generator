@@ -1,0 +1,21 @@
+{
+  "name": "simple-demo-random-number-generator",
+  "version": "1.0.6",
+  "description": "simple random number for two digit",
+  "main": "./index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "keywords": [
+    "simple-demo-random-number-generator",
+    "Math",
+    "node",
+    "random"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ishwarchandratiwari/testingpackage-simple-demo-random-number-generator"
+  },
+  "author": "Ishwar Chandra Tiwari <ishwardeveloper@gmail.com>",
+  "license": "MIT"
+}
